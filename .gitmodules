@@ -1,0 +1,3 @@
+[submodule "ext/vuk"]
+	path = ext/vuk
+	url = https://github.com/martty/vuk
