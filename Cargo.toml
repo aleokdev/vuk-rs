@@ -1,6 +1,7 @@
 [package]
 name = "vuk"
 repository = "https://github.com/aleokdev/vuk-rs"
+description = "Rust bindings for https://github.com/martty/vuk"
 version = "0.0.1"
 edition = "2021"
 license = "MIT"
